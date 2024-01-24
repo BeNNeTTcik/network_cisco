@@ -11,6 +11,9 @@ Terminology, which I use: "R" stands for Router, "SW" stands for Switch, and the
 ## This configuration skipped secure for equipments in network.
 
 Topology:
-![image](https://github.com/BeNNeTTcik/network_cisco/assets/42866234/8fe9c309-c4d4-465f-8216-94d9db7051e4)
-![image](https://github.com/BeNNeTTcik/network_cisco/assets/42866234/5c098565-2596-4e2a-8370-2690bbcaa6aa)
+![image](https://github.com/BeNNeTTcik/network_cisco/assets/42866234/b38f39e2-d254-4a22-beb6-00e74c0b5c38)
+
+![image](https://github.com/BeNNeTTcik/network_cisco/assets/42866234/e700a0f8-d64e-451c-ada7-cee0f1450d07)
+
+
 
